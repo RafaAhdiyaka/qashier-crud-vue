@@ -42,7 +42,6 @@
                             </div>
                             <button type="submit" class="btn btn-primary">SIMPAN</button>
                         </form>                        
-
                     </div>
                 </div>
             </div>

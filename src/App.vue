@@ -1,9 +1,8 @@
 <template>
+  <NavigationBar/>
   <router-view></router-view>
 </template>
 
-<script>
-export default {
-
-}
+<script setup>
+import NavigationBar from './components/NavigationBar.vue'
 </script>
